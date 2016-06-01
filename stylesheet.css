@@ -21,7 +21,8 @@ body {
 	margin: auto;
 	width: 40%;
 	
-}#search {
+}
+#search {
 	border-style: outset;
 	border-width: medium;
 	border-color: red;
