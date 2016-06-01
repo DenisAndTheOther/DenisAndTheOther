@@ -1,0 +1,24 @@
+﻿ h1 {
+    color: #00ff00;
+}
+ p {
+    color: #660066;
+}
+/* This  my external style sheet */
+li{
+	color : #ccff99;
+}
+ h3 {
+    color:  #ffe5e5;
+}
+body {
+  background-image: url("http://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
+}
+#box {
+	border-style: outset;
+	border-width: medium;
+	border-color: blue;
+	margin: auto;
+	width: 40%;
+	
+}
