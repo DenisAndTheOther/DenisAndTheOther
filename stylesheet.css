@@ -12,7 +12,8 @@ li{
     color:  #ffe5e5;
 }
 body {
-  background-image: url("http://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
+  background-image:("background.jpg");
+");
 }
 #box {
 	border-style: outset;
